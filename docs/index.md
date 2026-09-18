@@ -33,7 +33,7 @@ to get a project like this running on your machine.
 
 ## Produced Artifacts
 
-- [**Reactive EDA App (marimo)**](./app/)
+- **Reactive EDA App (marimo)**
 - [**Reactive EDA Notebook (marimo)**](https://github.com/denisecase/datafun-04-eda/blob/main/src/datafun/notebook.py)
 - [**Jupyter Notebook**](https://github.com/denisecase/datafun-04-eda/blob/main/notebooks/eda.ipynb)
 
