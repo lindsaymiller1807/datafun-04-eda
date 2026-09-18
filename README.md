@@ -1,4 +1,4 @@
-# datafun-04-eda
+# Exploratory Data Analysis Project - Lindsay Miller
 
 [![Workflow Guide](https://img.shields.io/badge/Pro--Guide-pro--analytics--02-green)](https://denisecase.github.io/pro-analytics-02/workflow-b-apply-example-project/)
 [![Python 3.14](https://img.shields.io/badge/python-3.14%2B-blue?logo=python)](./pyproject.toml)
@@ -10,8 +10,8 @@
 [![Zensical docs](https://img.shields.io/badge/Zensical-docs-purple)](https://zensical.org/)
 [![MIT](https://img.shields.io/badge/license-see%20LICENSE-yellow.svg)](./LICENSE)
 
-> Professional Python project: exploratory data analysis
-> including marimo and Jupyter notebooks.
+> Exploratory Data Analysis project by Lindsay Miller
+> This project uses Python, Jupyter, and marimo to explore and visualize data.
 
 Notebooks combine narration and code.
 This project conducts an EDA using Python and also demonstrates
@@ -117,7 +117,7 @@ Follow the guide for the **full instructions**.
 Open a machine terminal in your `Repos` folder:
 
 ```shell
-git clone https://github.com/denisecase/datafun-04-eda
+git clone https://github.com/lindsaymiller1807/datafun-04-eda
 
 cd datafun-04-eda
 code .
@@ -220,7 +220,7 @@ Press `Ctrl c` (both keys together) or `Ctrl+Z` then `Enter` on Windows.
 
 ## Documentation
 
-- [Documentation](https://denisecase.github.io/datafun-04-eda/)
+- [Documentation](https://lindsaymiller1807.github.io/datafun-04-eda/)
 
 ## Data Card
 
