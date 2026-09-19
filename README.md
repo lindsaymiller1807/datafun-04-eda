@@ -89,6 +89,16 @@ When issues occur, share screenshots, error messages,
 and details about what you tried.
 Working through issues is part of implementing professional projects.
 
+## Technical Modification
+
+For Phase 4, I modified the numeric relationship being investigated.
+
+- **Original relationship:** flipper length vs. body mass
+- **New relationship:** bill length vs. body mass
+- **Reason for the change:** I wanted to investigate whether bill length is also related to body mass.
+- **Result:** The correlation between bill length and body mass was 0.595.
+- **Observation:** This shows a moderate positive relationship. Penguins with longer bills tend to have greater body mass, but the relationship is more variable than the relationship between flipper length and body mass.
+
 ## Success
 
 After completing Phase 1. **Start & Run**, you'll have the example project,
