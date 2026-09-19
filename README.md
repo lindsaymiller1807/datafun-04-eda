@@ -53,13 +53,13 @@ and create your own project to explore a tabular dataset.
 
 This project produces the same EDA work in several useful forms.
 
-- [**Reactive EDA App (marimo)**](https://denisecase.github.io/datafun-04-eda/app/)
+- [**Reactive EDA App (marimo)**](https://lindsaymiller1807.github.io/datafun-04-eda/app/)
   - run the analysis interactively in a browser
 
 - [**Reactive EDA Notebook (marimo)**](./src/datafun/notebook.py)
   - view the Python source used to create the reactive app
 
-- [**Jupyter Notebook**](./notebooks/eda.ipynb)
+- [**Jupyter Notebook**](./notebooks/eda_lindsay.ipynb)
   - view the analysis in the traditional notebook format
 
 ## Initial Results
@@ -98,6 +98,22 @@ For Phase 4, I modified the numeric relationship being investigated.
 - **Reason for the change:** I wanted to investigate whether bill length is also related to body mass.
 - **Result:** The correlation between bill length and body mass was 0.595.
 - **Observation:** This shows a moderate positive relationship. Penguins with longer bills tend to have greater body mass, but the relationship is more variable than the relationship between flipper length and body mass.
+
+## Phase 5: Final Analysis
+
+For the final phase, I extended the project by asking:
+
+**Does the relationship between bill length and body mass differ by penguin species?**
+
+The correlation between bill length and body mass was positive for all three species:
+
+- Adelie: 0.549
+- Chinstrap: 0.514
+- Gentoo: 0.669
+
+The relationship was strongest for Gentoo penguins. The species-colored scatter plot also showed distinct groupings, suggesting that species is important when interpreting the relationship between bill length and body mass.
+
+This final analysis extended the original project by applying the EDA techniques to a new question.
 
 ## Success
 
